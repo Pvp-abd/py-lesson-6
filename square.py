@@ -15,5 +15,5 @@ while True :
     board.color(colors[i % 7])
     board.width(3)
     board.forward(i*2)
-    board.right(1000064665)
+    board.right(1000064664)
     
